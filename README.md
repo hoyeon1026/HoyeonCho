@@ -2,7 +2,7 @@
 - 👀 I am interested in artificial intelligence and machine learning.
 - 🌱 I am currently learning advanced machine learning techniques and data visualization tools.
 - 📫 Contact: hy2491@naver.com
-- 😄 Pronoun: he/she
+- 😄 Pronoun: he/him
 - ⚡ Education : 
   Chosun University: Teacher Certification - Social Studies
   Chosun University: Economics
