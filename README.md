@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HoyeonCho
 - 👀 I am interested in artificial intelligence and machine learning.
-- 🌱 I am currently learning advanced machine learning techniques and data visualization tools.
+- 🌱 I am currently learning  information security, economics, and education
 - 📫 Contact: hy2491@naver.com
 - 😄 Pronoun: he/him
 - ⚡ Education : 
